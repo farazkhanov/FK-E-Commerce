@@ -39,11 +39,11 @@ body {
 }
 
 .navbar nav a:hover {
-  color: #fa6e61ff;
+  color: rgb(245, 105, 92);
 }
 
 .navbar button {
-  background: #ff6f61;
+  background: #fc6b5d;
   border: none;
   padding: 8px 15px;
   border-radius: 20px;
@@ -59,7 +59,7 @@ body {
 /* Hero Section */
 .hero {
   height: 80vh;
-  background: linear-gradient(to right, #ff6f61, #ff9068);
+  background: linear-gradient(to right, #fa6b5e, #ff9068);
   color: white;
   display: flex;
   flex-direction: column;
@@ -82,7 +82,7 @@ body {
 
 .hero .cta {
   background: white;
-  color: #ff6f61;
+  color: #f8695c;
   padding: 12px 25px;
   border: none;
   border-radius: 30px;
