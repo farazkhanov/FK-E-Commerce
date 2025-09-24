@@ -82,7 +82,7 @@ body {
 
 .hero .cta {
   background: white;
-  color: #f8695c;
+  color: #f56659;
   padding: 12px 25px;
   border: none;
   border-radius: 30px;
@@ -92,7 +92,7 @@ body {
 }
 
 .hero .cta:hover {
-  background: #ff6f61;
+  background: #f56a5d;
   color: white;
   transform: scale(1.1);
 }
@@ -106,7 +106,7 @@ body {
 .products h2 {
   font-size: 2.2rem;
   margin-bottom: 30px;
-  color: #111;
+  color: #0a0a0a;
 }
 
 .product-grid {
@@ -146,7 +146,7 @@ body {
 }
 
 .product-card button {
-  background: #ff6f61;
+  background: #fa6c5f;
   color: white;
   border: none;
   padding: 8px 15px;
